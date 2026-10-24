@@ -18,6 +18,7 @@
 
 | 프로젝트 | 소개 | 프로젝트 기술 |
 | :--- | :--- | :--- |
+| **[Catalog Query Lab](https://github.com/sschan99/catalog-query-lab)** | 상품 데이터가 바뀌는 상황에서 최신 조회와 특정 시점의 목록 보존을 구현하고, 조회 방식별 정확성과 비용을 비교했습니다. | Java · Spring Boot · PostgreSQL |
 | **[CheckMate Generator](https://github.com/sschan99/checkmate-generator)** | 여행 조건에 맞는 체크리스트를 생성하는 API. 입력·응답 검증과 오류 처리를 보완했습니다. | JavaScript · Express · Gemini API |
 | **[FunBox](https://github.com/boostcampwm2023/and05-funbox)** | 지도에서 친구를 찾고 채팅과 미니게임으로 교류하는 소셜 플랫폼. 백엔드 개발에 참여했습니다. | TypeScript · NestJS · MySQL · Socket.IO |
 | **[NearBuy](https://github.com/Dcom-KHU/nearbuy-backend)** | 1인 가구를 위한 공동구매·동네 거래 플랫폼의 백엔드 프로젝트입니다. | Java · Spring Boot · MySQL · MongoDB |
@@ -27,7 +28,7 @@
 
 **Backend** &nbsp; TypeScript / JavaScript · NestJS / Express · Java / Spring Boot  
 **Game** &nbsp; Unity · C#  
-**Data** &nbsp; MySQL · MongoDB  
+**Data** &nbsp; PostgreSQL · MySQL · MongoDB  
 **Problem Solving** &nbsp; Python
 
 ## Learning Log
